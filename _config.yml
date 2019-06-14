@@ -54,12 +54,12 @@ github: mdurmuss
 email: mustafa-durmuss@outlook.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    mustafadurmus:
+        name: Mustafa Durmus
+        bio: A Man who travels the world
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        #twitter: johndoe
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee

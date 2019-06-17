@@ -1,5 +1,18 @@
 ---
-published: false
+published: true
+layout: post
+date: '2019-03-09 22:44'
+image: /assets/images/markdown.jpg
+tag:
+  - tensorflow
+  - windows
+  - gpu
+  - deep learning
+star: true
+category: blog
+author: mustafa
+description: Markdown summary with different options
+title: 'Windows 10, Tensorflow-GPU'
 ---
 Derin öğrenme modelleri üzerine çalışmaya başladığım ilk andan itibaren yaşadığım en önemli sorun bu karmaşık yapıyı öğrenmek değil
 eğitim için harcadığım vakitler oldu. [Tensorflow](https://www.tensorflow.org/) 'u CPU için kurup gerekli eğitimleri bilgisayarın işlemcisi üzerinden eğitiyordum. Hatta bir

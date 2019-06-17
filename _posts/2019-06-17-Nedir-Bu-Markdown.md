@@ -10,6 +10,7 @@ star: true
 category: blog
 author: mustafa
 description: Markdown summary with different options
+title: Nedir Bu Markdown?
 ---
 Bir blog veya herhangi bir internet sitesine yazı yazmak istediğimizde çeşitli zorluklarla karşılaşırız. Örneğin bir paragraf başlangıcı belirtmek için html içine yazdığımızda bu bölümü p etiketi içine almamız gerekir. Eğer yazımızı html kodlarının içine doğrudan atabilseydik her şey daha kolay olurdu. İşte burada 
 [Markdown](https://www.markdowntutorial.com/) plaintext yani düz yazı yazarken bu yazımı formatlandırılmış bir şekilde yazmamıza olanak sağlar. 

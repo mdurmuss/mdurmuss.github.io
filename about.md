@@ -14,7 +14,7 @@ published: true
 	<li>Python</li>
 	<li>Django</li>
 	<li>Deep Learning</li>
-  	<li> Computer Vision (CNN,RNN) </li>
+  	<li> Computer Vision</li>
   	<li> Natural Language Processing</li>
 	<li>Unity & Game Programming </li>
 </ul>

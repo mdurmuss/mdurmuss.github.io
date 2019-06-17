@@ -1,10 +1,11 @@
 ---
 title: About
 layout: page
+published: true
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>1995 yılında İstanbul'da doğdum. 2012 yılında [Maçka Akif Tuncel Anadolu ve Meslek Lisesi](http://macka.meb.k12.tr/) 'nden ağ programcılığı bölümünden mezun oldum. 1 yıllık bir aranın ardından 2014 yılında [Karabük Üniversitesi bilgisayar mühendisliği ](http://muh.karabuk.edu.tr/bilgisayar/) bölümünü kazandım. 2019'a girdiğimiz bu günlerde artık mezuniyet hazırlığı yapıyorum.
+<p>1995 yılında İstanbul'da doğdum. 2012 yılında Maçka Akif Tuncel Anadolu ve Meslek Lisesi 'nden ağ programcılığı bölümünden mezun oldum. 1 yıllık bir aranın ardından 2014 yılında Karabük Üniversitesi bilgisayar mühendisliği bölümünü kazandım. 2019 Haziran ayı itibariyle mezun oldum.
 
 <h2>Yetenekler ve İlgi Alanları</h2>
 

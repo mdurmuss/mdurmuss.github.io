@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2019-02-17'
 title: Ubuntu Yanına Windows (Dual Boot)

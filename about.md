@@ -4,21 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>1995 yılında İstanbul'da doğdum. 2012 yılında [Maçka Akif Tuncel Anadolu ve Meslek Lisesi](http://macka.meb.k12.tr/) 'nden ağ programcılığı bölümünden mezun oldum. 1 yıllık bir aranın ardından 2014 yılında [Karabük Üniversitesi bilgisayar mühendisliği ](http://muh.karabuk.edu.tr/bilgisayar/) bölümünü kazandım. 2019'a girdiğimiz bu günlerde artık mezuniyet hazırlığı yapıyorum.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h2>Skills</h2>
+<h2>Yetenekler ve İlgi Alanları</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -37,7 +25,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Projeler</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>

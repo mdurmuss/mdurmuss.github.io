@@ -37,7 +37,7 @@ disqus:
 facebook: md1814
 twitter: _mdurmus
 # google: mygoogle
-# instagram: myinstagram
+# instagram: _mdurmus
 # pinterest: mypinterest
 linkedin: mustafa-durmuş-1a1b04a7
 # youtube: myyoutube
@@ -56,7 +56,7 @@ email: mustafa-durmuss@outlook.com
 authors:
     mustafadurmus:
         name: Mustafa Durmus
-        bio: A Man who travels the world
+        bio: a man who travels the world
         external-image: false
         picture: assets/images/profile.jpg
         #twitter: johndoe

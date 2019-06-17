@@ -20,14 +20,14 @@ Bilgisayarınızda hali hazırda çalışan bir Ubuntu işletim sisteminiz oldu�
 ### WINDOWS'U İNDİR
 Microsoft daha önceden alışık olmadığımız ücretsiz bir şekilde Windows'u indirip kurmamıza izin veriyor. Tabii bir süreliğine. [Windows](https://www.microsoft.com/tr-tr/software-download/windows10ISO)'u sahip olduğunuz işlemciye göre indirin.
 ### PARÇALARA AYIR
-Eğer Ubuntu için hard disk'inizde belirli bir yer ayırıp oraya kurmadıysanız tüm hafızanızı bu işletim sistemi için ayırmışsınız demektir. Bu adım biraz can sıkıcı olabilir çünkü hard diskinizden kullanmadığınız bir bölümü ayırmanız gerekecek ve bu biraz zaman alan bir işlem. Ubuntu Software'dan [Gparted](https://gparted.org/) uygulamasını indirelim. Gparted bölme işlemlerini komut satırı yerine arayüzden yapmamızı sağlayan bir araç.![Screenshot from 2019-02-13 19-43-45.png]({{site.baseurl}}/img/Screenshot from 2019-02-13 19-43-45.png)
+Eğer Ubuntu için hard disk'inizde belirli bir yer ayırıp oraya kurmadıysanız tüm hafızanızı bu işletim sistemi için ayırmışsınız demektir. Bu adım biraz can sıkıcı olabilir çünkü hard diskinizden kullanmadığınız bir bölümü ayırmanız gerekecek ve bu biraz zaman alan bir işlem. Ubuntu Software'dan [Gparted](https://gparted.org/) uygulamasını indirelim. Gparted bölme işlemlerini komut satırı yerine arayüzden yapmamızı sağlayan bir araç.![Screenshot from 2019-02-13 19-43-45.png]({{site.baseurl}}/assets/images/Screenshot from 2019-02-13 19-43-45.png)
 Gördüğünüz üzere Ubuntu için çeşitli bölümler ayrılmış durumda. Ext4 hafıza için ayrılan kısım ve harddisk'in tamamını kapsıyor. Parçalama işlemini oturumdan yapamıyoruz. Bu sebeple;
 - Bir [Ubuntu](https://www.ubuntu.com/download/desktop) boot usb'si veya cd'si takın ve boot edin.
 - Ubuntu'yu dene seçeneğine tıklayın. 
 - Ardından gparted uygulamasını açın. 
 
 Şimdi ayırma işlemini yapabildiğinizi göreceksiniz. 
-![Screenshot from 2019-02-17 15-38-33.png]({{site.baseurl}}/img/Screenshot from 2019-02-17 15-38-33.png)
+![Screenshot from 2019-02-17 15-38-33.png]({{site.baseurl}}/assets/images/Screenshot from 2019-02-17 15-38-33.png)
 
 Ubuntu'nun yüklü olduğu alana sağ tıklayıp yeniden boyutlandır'ı seçin. Karşınıza yukarıda gördüğünüz alan çıkacaktır. Windows için istediğiniz kadar yer ayırıp kapatın. Boş alanın dosya sistemini NFTS yapıp tüm işlemleri onayla'ya tıklayın. Ayırdığınız kapasiteye göre bu işlem vakit alacaktır. Yalnızca Windows sistem dosyalarının 20gb'a yakın yer tuttuğunu unutmayın. Örnek olarak 200GB hafıza alanı 2 saatte tamamlandı.
 ### WINDOWS KURULUMU

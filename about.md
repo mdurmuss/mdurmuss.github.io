@@ -13,7 +13,9 @@ published: true
 	<li>Linux & Ubuntu</li>
 	<li>Python</li>
 	<li>Django</li>
-	<li>Deep Learning & Machine Learning & AI</li>
+	<li>Deep Learning</li>
+  	<li> Computer Vision (CNN,RNN) </li>
+  	<li> Natural Language Processing</li>
 	<li>Unity & Game Programming </li>
 </ul>
 

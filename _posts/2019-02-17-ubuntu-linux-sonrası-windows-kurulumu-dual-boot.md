@@ -12,7 +12,7 @@ tag:
   - operating system
 star: true
 category: blog
-author: mustafa
+author: mustafadurmus
 ---
 Bu konuda bir araştırma yaptığınızda genellikle çoğu insanın önce Windows ardından Ubuntu veya linux dağıtımlarından birini kurduğunu görürsünüz. Bu yazı diğer soruya odaklanacak, eğer Ubuntu'dan sonra windows kurmak isteseydiniz nasıl olurdu?
 

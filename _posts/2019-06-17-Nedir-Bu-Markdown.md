@@ -8,7 +8,7 @@ tag:
   - elements
 star: true
 category: blog
-author: mustafa
+author: mustafadurmus
 description: Markdown summary with different options
 title: Nedir Bu Markdown?
 ---

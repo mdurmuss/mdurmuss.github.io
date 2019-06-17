@@ -10,7 +10,7 @@ tag:
   - deep learning
 star: true
 category: blog
-author: mustafa
+author: mustafadurmus
 description: Markdown summary with different options
 title: 'Windows 10, Tensorflow-GPU'
 ---

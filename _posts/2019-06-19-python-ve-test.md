@@ -1,3 +1,18 @@
+---
+published: true
+layout: post
+date: '2019-06-19'
+image: /assets/images/markdown.jpg
+tag:
+  - python
+  - test
+  - unittest
+star: true
+category: blog
+author: mustafadurmus
+title: 'Python ve Test'
+---
+
 **Test**, kodun amacına ulaştığını göstermeye ve hataların önceden keşfedilmesine olanak sağlar.
 
 Yazılımı bir sistem olarak adlandırırsak, sistemin beklenen veya beklenmeyen kullanımını yansıtacak bir test senaryosu hazırlanarak test oluşturmaya başlanır.

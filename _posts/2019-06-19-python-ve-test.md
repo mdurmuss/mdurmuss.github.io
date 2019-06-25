@@ -3,6 +3,7 @@ title: "Python ve Test"
 published: true
 layout: post
 date: '2019-06-19'
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 tag:
   - python

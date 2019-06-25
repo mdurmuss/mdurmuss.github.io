@@ -3,7 +3,7 @@ title: "Python ve Test"
 published: true
 layout: post
 date: '2019-06-19'
-image: https://files.realpython.com/media/Getting-Started-with-Testing-in-Python_Watermarked.9f22be97343d.jpg
+image: assets/images/test.png
 headerImage: true
 tag:
   - python

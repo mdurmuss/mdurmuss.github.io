@@ -3,8 +3,6 @@ title: "Python ve Test"
 published: true
 layout: post
 date: '2019-06-19'
-image: /assets/images/test.png
-headerImage: true
 tag:
   - python
   - test
@@ -13,6 +11,7 @@ star: true
 category: blog
 author: mustafadurmus
 ---
+![Screenshot](/assets/images/test.png)
 
 **Test**, kodun amacına ulaştığını göstermeye ve hataların önceden keşfedilmesine olanak sağlar.
 

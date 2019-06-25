@@ -3,7 +3,7 @@ title: "Python ve Test"
 published: true
 layout: post
 date: '2019-06-19'
-image: assets/images/test.png
+image: /assets/images/test.png
 headerImage: true
 tag:
   - python

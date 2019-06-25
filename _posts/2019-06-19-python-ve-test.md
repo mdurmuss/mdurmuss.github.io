@@ -1,8 +1,9 @@
 ---
+title: "Python ve Test"
 published: true
 layout: post
 date: '2019-06-19'
-image: /assets/images/markdown.jpg
+headerImage: true
 tag:
   - python
   - test
@@ -10,7 +11,6 @@ tag:
 star: true
 category: blog
 author: mustafadurmus
-title: 'Python ve Test'
 ---
 
 **Test**, kodun amacına ulaştığını göstermeye ve hataların önceden keşfedilmesine olanak sağlar.

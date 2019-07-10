@@ -10,6 +10,7 @@ published: true
 <h2>Yetenekler ve İlgi Alanları</h2>
 
 <ul class="skill-list">
+	<li>Robot Operating System(ROS) </li>
 	<li>Linux & Ubuntu</li>
 	<li>Python</li>
 	<li>Django</li>

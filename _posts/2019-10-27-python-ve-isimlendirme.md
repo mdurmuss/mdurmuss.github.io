@@ -68,10 +68,10 @@ O zaman başlayalım!
 
   - Sınıf isimlerinin ilk harfi büyük diğerleri küçük olmalıdır.
   - Birden fazla kelimeye ihtiyacınız olduğunda bir sonraki kelimenin ilk harfi büyük yazılmalıdır. Bu yazıma **Camel Case** de denmektedir.
-
-
+  
+  
   ```python
-  class HelloWorld ; class FirstPythonClass
+  class HelloWorld
   ```
 
 - **Fonksiyonlar**

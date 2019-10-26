@@ -11,7 +11,7 @@ star: true
 category: blog
 author: mustafadurmus
 ---
-![Screenshot](/assets/images/test.png)
+![Screenshot](/assets/images/readability_counts.jpg)
 
 Yazıya [**The Zen of Python**]((https://zen-of-python.info/)) ile başlamak istiyorum. Bu 20 cümleye python dilinin manifestosu demek çok da yanlış olmaz.
 

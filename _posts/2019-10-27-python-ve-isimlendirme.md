@@ -68,16 +68,14 @@ O zaman başlayalım!
   - Birden fazla kelimeye ihtiyacınız olduğunda bir sonraki kelimenin ilk harfi büyük yazılmalıdır. Bu yazıma **Camel Case** de denmektedir.
   
   
-  ```python
-  class HelloWorld
-  ```
+    ```python
+    class HelloWorld
+   ```
 
 - **Fonksiyonlar**
 
   - Fonksiyon isimlerinin tamamı küçük harf olmalıdır.
-
   - Birden fazla kelimeye ihtiyacınız olduğunda alt çizgi kullanın.
-
   - Bir sınıf içinde public olmayan sınıf isimlerine alt çizgi ile başlayın.
 
     ```python

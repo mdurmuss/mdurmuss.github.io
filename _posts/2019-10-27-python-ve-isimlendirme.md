@@ -41,9 +41,7 @@ Python dilinin yazarı Guido ayrıca şöyle diyor.
 
 ------
 
-Günlerin kod yazmakla geçmesinin ardından geriye dönüp bakıldığında yazarın kendi yazdığı satırlar karşısında yarım saat geçirip anlamaya çalıştığı çok olmuştur benim de başıma birçok kez geldi. Her geliştiricinin böyle zamanları olur. 
-
-Çözüm:
+Günlerin kod yazmakla geçmesinin ardından geriye dönüp bakıldığında yazarın kendi yazdığı satırlar karşısında yarım saat geçirip anlamaya çalıştığı çok olmuştur benim de başıma birçok kez geldi. Her geliştiricinin böyle zamanları olur ve çözümü şunları kullanarak bulur.
 
 - Yorum satırları (python ve yorum ile alakalı ayrı bir yazı mutlaka gelecek)
 - İsimlendirme

@@ -109,4 +109,4 @@ Görüldüğü üzere aslında öğrenilmesi gereken çok da fazla standart yok.
 
 Son olarak bir senior ve bir junior geliştiricinin aralarında geçen bir konuşmada dikkatimi çeken bir cümleyi paylaşmak istiyorum.
 
-> Senior Developer: "Junior'lar kodlama yaparken çalışsın da nasıl olursa olsun mantığıyla hareket ederken, bizler yazdığımız kodun çalışacağına eminiz ama nasıl daha güçlü daha sade ve daha geliştirilebilir yazmayı planlıyoruz."
+> Senior Developer: "Junior'lar kodlama yaparken çalışsın da nasıl olursa olsun mantığıyla hareket ederken, bizler yazdığımız kodun çalışacağına eminiz fakat nasıl daha güçlü, daha sade ve daha geliştirilebilir yazabiliriz bunu planlarız."

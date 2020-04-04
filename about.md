@@ -5,16 +5,24 @@ published: true
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-1995 yılında İstanbul'da doğdum. 2013 yılında Maçka Akif Tuncel Anadolu ve Meslek Lisesi 'nden ağ programcılığı bölümünden mezun oldum. 1 yıllık bir aranın ardından 2014 yılında Karabük Üniversitesi bilgisayar mühendisliği bölümünü kazandım. 2019 Haziran ayı itibariyle mezun oldum.
+1995 yılında İstanbul'da doğdum. 2013 yılında Maçka Akif Tuncel Anadolu Meslek Lisesi 'nden mezun oldum. 2014-2019 yılları arasında Karabük Üniversitesi Bilgisayar Mühendisliği eğitimimi tamamladım ve mezun oldum.
 
-## Yetenekler ve İlgi Alanları
-- Robot Operating System(ROS)
-- Gazebo
-- Git
-- Ubuntu
+## İlgi Alanları
+- Robotics
+    * ROS
+    - Gazebo
+    * Rviz
+- Artifical Intelligence
+    * Image Processing
+    - Neural Networks
+    * Deep Learning
+    - Natural Language Processing
+- Linux
+    * Ubuntu
 - Python
-- Django
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
+    * Django
+    - Qt
+- Git
 - Basic Game Programming
+    - Unity
+    - C#

@@ -34,24 +34,24 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: md1814
-twitter: _mdurmus
+#facebook: md1814
+#twitter: _mdurmus
 # google: mygoogle
 # instagram: _mdurmus
 # pinterest: mypinterest
-linkedin: mustafa-durmuş-1a1b04a7
 # youtube: myyoutube
-spotify: mustafa-durmuss
+linkedin: mustafa-durmuş-1a1b04a7
 github: mdurmuss
+medium: mdurmus
+spotify: mustafa-durmuss
+email: mustafa-durmuss@outlook.com
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: mdurmus
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: mustafa-durmuss@outlook.com
 
 authors:
     mustafadurmus:

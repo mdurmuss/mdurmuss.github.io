@@ -111,3 +111,5 @@ compress_html:
         - stage
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+
+exclude: vendor

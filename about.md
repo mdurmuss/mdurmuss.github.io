@@ -5,7 +5,7 @@ published: true
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-1995 yılında İstanbul'da doğdum. 2013 yılında Maçka Akif Tuncel Anadolu Meslek Lisesi 'nden mezun oldum. 2014-2019 yılları arasında Karabük Üniversitesi Bilgisayar Mühendisliği eğitimimi tamamladım. 2020 yılının Ekim ayında Karabük Üniversitesi'nde yüksek lisans eğitimime başladım.
+1995 yılında İstanbul'da doğdum. 2013 yılında Maçka Akif Tuncel Anadolu Meslek Lisesi 'nden mezun oldum. 2019 yılında Karabük Üniversitesi Bilgisayar Mühendisliği bölümünde lisans eğitimimi tamamladım. 2020 yılının Ekim ayında Karabük Üniversitesi'nde yüksek lisans eğitimime başladım.
 
 ## İlgi Alanları
 - Robotics

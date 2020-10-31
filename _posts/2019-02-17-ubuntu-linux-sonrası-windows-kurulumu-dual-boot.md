@@ -1,19 +1,22 @@
 ---
+title: Ubuntu Yanına Windows (Dual Boot)
 published: true
 layout: post
 date: '2019-02-17'
-title: Ubuntu Yanına Windows (Dual Boot)
-image: /assets/images/markdown.jpg
+image: assets/images/woeusb-logo.png
 tag:
-  - dual boot
-  - windows
-  - linux
-  - boot order
-  - operating system
+- dual boot
+- windows
+- linux
+- boot order
+- operating system
 star: true
 category: blog
 author: mustafadurmus
 ---
+
+![Screenshot](/assets/images/woeusb-logo.png)
+
 Bu konuda bir araştırma yaptığınızda genellikle çoğu insanın önce Windows ardından Ubuntu veya linux dağıtımlarından birini kurduğunu görürsünüz. Bu yazı diğer soruya odaklanacak, eğer Ubuntu'dan sonra windows kurmak isteseydiniz nasıl olurdu?
 
 Bilgisayarınızda hali hazırda çalışan bir Ubuntu işletim sisteminiz olduğu varsayılarak adım adım nasıl dual boot yapılır, anlatılacaktır.

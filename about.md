@@ -13,7 +13,7 @@ published: true
     - Gazebo
     * Rviz
 - Artifical Intelligence
-    * Image Processing
+    - Image Processing
     - Neural Networks
     * Deep Learning
     - Natural Language Processing

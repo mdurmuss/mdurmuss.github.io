@@ -45,14 +45,14 @@ flask run
 
 ### Gerekli Düzenlemeler
 
-- Kelime kelime ayırım yaparken noktalama işaretleri siliniyor. Ancak nokta'dan sonra gelen kelime ile noktadan önce gelen kelime aslında komşu değildir. Düzeltilmesi gerekiyor.
-    - Öğle yemeğini dışarda yedim. İş yerine yakın yeni bir yer keşfettim.
-
-    Bu cümlede **yedim** ile **İş** kelimeleri birbirinden bağımsızdır.
+- **Kullanıcıdan girdi olarak kelime alınmalı ve en yüksek 3 ihtimalli kelime gösterilmeli. :heavy_check_mark:**
+- **Flask ile web üzerinde çalıştırma. :heavy_check_mark:**
+- **Kelime düzeltme (spellchecking) fonksiyonu ekle. :heavy_check_mark:**
+- Kelime kelime ayırım yaparken noktalama işaretleri siliniyor. Ancak nokta'dan sonra gelen kelime ile noktadan önce gelen kelime aslında komşu değildir. 
+    - *Öğle yemeğini dışarda yedim. İş yerine yakın yeni bir yer keşfettim.* Bu cümlede **yedim** ile **İş** kelimeleri birbirinden bağımsızdır.
 
 - Daha büyük bir veriseti ile dene.
 
-- Birden fazla kelime ile tahmin yapma.
-- **Kullanıcıdan girdi olarak kelime alınmalı ve en yüksek 3 ihtimalli kelime gösterilmeli. :heavy_check_mark:**
-- **Flask ile web üzerinde çalıştırma. :heavy_check_mark:**
+- Birden fazla kelime ile tahmin yapma. (trigram)
+
 

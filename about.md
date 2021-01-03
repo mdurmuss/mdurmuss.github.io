@@ -3,41 +3,36 @@ title: About
 layout: page
 published: true
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-# <center>Mustafa DURMUŞ</center>
+# <center>Mustafa Durmuş</center>
 
-İstanbul'da **robotik geliştirici** olarak çalışmaktayım.
+Merhaba ben Mustafa. İstanbul'da yaşıyorum. Özel bir şirkette **NLP Engineer** olarak çalışmaktayım.
 
-1995 yılında İstanbul'da doğdum. 2013 yılında Maçka Akif Tuncel Anadolu Meslek Lisesi 'nden mezun oldum. 2019 yılında Karabük Üniversitesi Bilgisayar Mühendisliği bölümünde lisans eğitimimi tamamladım. 2020 yılının Ekim ayında Karabük Üniversitesi'nde yüksek lisans eğitimime başladım.
+## İlgi Alanlarım
 
-## İlgi Alanları
-
-- *Yapay Zeka*
-    * Derin Öğrenme
-    * Doğal Dil İşleme
-    * Pekiştirmeli Öğrenme
-    * Görüntü İşleme
-
+- *Yapay Zeka*'nın birçok alt araştırma dalıyla yakından ilgiliyim. 
+    - Machine, Deep and Reinforcement Learning, Natural Language Understanding and Processing
 - *Robotik*
-    - ROS
-    - Gazebo
-    - Rviz
-
-- *Linux*
-    * Ubuntu
-    * Bash
-
+    - ROS, Gazebo, Rviz
+- *Linux* üzerinde çalışmayı ve basit shell komutları yazmayı seviyorum. 
+    - Ubuntu, Bash Scriptting, Amazon Web Services
 - *Python*
-    * Django
-    * Qt
+- Versiyon Kontrol Sistemi 
+    - Git, Github, Bitbucket
+- *Basit Oyun Programlama ve Sanal Gerçeklik* üzerine çalışmalar yapıyorum. 
+    - Unity, C#, Blender
 
-- *Versiyon Kontrol Sistemi*
-    - Git
-    - Github
-    - Bitbucket
+### Kısa Özgeçmiş
 
-- *Basit Oyun Programlama*
-    - Unity
-    - C#
-    - Blender ile Basit 3D Modelleme
+#### 2020:
+
+> * [*Albert Health*](https://albert.health/en/) şirketinde *Doğal Dil İşleme Mühendisi* olarak çalışmaya başladım.
+> * *Karabük Üniversitesi*'nde yüksek lisans eğitimime başladım.
+
+#### 2019:
+
+> * [*Hummingdrone*](https://hummingdrone.co/) şirketinde *Robotik Geliştirici* olarak çalışmaya başladım.
+> * *Karabük Üniversitesi* Bilgisayar Mühendisliği bölümünden mezun oldum.
+

@@ -1,9 +1,9 @@
 # main text of home
 name: Mustafa Durmuş
-bio: a man who travels the world
+bio: programming, artificial intelligence and stuff related
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: a man who travels the world
 
 # if it's an external image, update below for true
 # better with square images
@@ -37,14 +37,13 @@ disqus:
 #facebook: md1814
 #twitter: _mdurmus
 # google: mygoogle
-# instagram: _mdurmus
 # pinterest: mypinterest
-# youtube: myyoutube
+# youtube: channel/UC9xez3kVeinzyKeccKd4GAQ
 linkedin: mustafadurmuss
 github: mdurmuss
-medium: mdurmus
 spotify: mustafa-durmuss
 email: mustafa-durmuss@outlook.com
+instagram: _mdurmus
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow

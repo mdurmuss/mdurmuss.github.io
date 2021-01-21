@@ -16,8 +16,8 @@ resume: true
 resume-external: false
 resume-url: /assets/cv.pdf
 
-url: http://mdurmuss.github.io
-# your url: http://USERNAME.github.io
+url: https://mdurmuss.github.io
+# your url: https://USERNAME.github.io
 
 permalink: /:title/
 

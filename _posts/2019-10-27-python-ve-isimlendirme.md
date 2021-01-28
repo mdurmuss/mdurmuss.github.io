@@ -70,7 +70,7 @@ O zaman başlayalım!
   
     ```python
     class HelloWorld
-   ```
+    ```
 
 - **Fonksiyonlar**
 

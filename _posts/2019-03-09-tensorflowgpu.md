@@ -14,9 +14,12 @@ author: mustafadurmus
 description: Markdown summary with different options
 title: 'Windows 10, Tensorflow-GPU'
 ---
+![Screenshot](../assets/images/machinevsdeeplearning.jpg)
+
 Derin öğrenme modelleri üzerine çalışmaya başladığım ilk andan itibaren yaşadığım en önemli sorun bu karmaşık yapıyı öğrenmek değil
 eğitim için harcadığım vakitler oldu. [Tensorflow](https://www.tensorflow.org/) 'u CPU için kurup gerekli eğitimleri bilgisayarın işlemcisi üzerinden eğitiyordum. Hatta bir
 sinir ağını eğitmek için işlemci kesintisiz bir gün çalışmıştı. 
+
 ## Peki herkes GPU kullanabilir mi?
 Tensorflow için 2 seçeneğimiz var. CPU veya GPU. CPU kurulumunda yapacağınız tüm işlemler bilgisayarınızın kendi işlemcisini kullanacaktır. Tahmin edeceğiniz üzere bilgisayarın kullandığı işlemciye bir de eğitim için bir yük bindirdiğinizde hem bilgisayarınız ısınacak hem de eğitimlerin çok yavaş olduğunu göreceksiniz. Diğer seçeneğimiz olan GPU ise bu kurulumu ekran kartının işlemcisi üzerine yapar. İki ayrı işlemci farklı işleri aynı anda yaptığında daha hızlı eğitimler görürüz. 
 Ekran kartınızın Nvidia olması zorunluluk. Eğer öyleyse bu [link](https://developer.nvidia.com/cuda-gpus) 'e tıklayarak kartınızın puanını bulun. 3.5 ve üzeri puanı olan tüm ekran kartları GPU kurulumu desteklemekte.

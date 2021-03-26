@@ -28,7 +28,7 @@ Merhaba ben Mustafa. İstanbul'da yaşıyorum. Özel bir şirkette **NLP Enginee
 
 #### 2020:
 
-> * [*Albert Health*](https://albert.health/en/) şirketinde *Doğal Dil İşleme Mühendisi* olarak çalışmaya başladım.
+> * [*Albert Health*](https://albert.health) şirketinde *Doğal Dil İşleme Mühendisi* olarak çalışmaya başladım.
 > * *Karabük Üniversitesi*'nde yüksek lisans eğitimime başladım.
 
 #### 2019:

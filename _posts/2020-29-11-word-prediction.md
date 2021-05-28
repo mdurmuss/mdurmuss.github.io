@@ -21,7 +21,7 @@ Bu proje ngram teknikleri kullanarak girdiden sonra gelebilecek olan kelimeleri 
 
 ### Demo
 
-[Link](https://arcane-scrubland-44556.herokuapp.com/) üzerinden uygulamayı test edebilirsiniz.
+[Link](https://word-predictor.herokuapp.com/) üzerinden uygulamayı test edebilirsiniz.
 
 ### Kullanım
 
@@ -54,5 +54,4 @@ flask run
 - Daha büyük bir veriseti ile dene.
 
 - Birden fazla kelime ile tahmin yapma. (trigram)
-
 

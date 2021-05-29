@@ -1,5 +1,5 @@
 ---
-title: "TD-IDF Nedir?"
+title: "TF-IDF Nedir?"
 published: true
 layout: post
 date: '2021-01-28'
